@@ -1,2 +1,2 @@
 # mini-python-project
-A mini project where i devloped a desktop GUI application using python to provide an interface which is interactive and easy to use 
+A mini project where i devloped a desktop GUI application using python which stores the student details and will return  the details when we want....
